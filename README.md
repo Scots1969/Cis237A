@@ -19,4 +19,4 @@
 15. I encountered zero errors while installing this software.
 
 
-### Moqups URL: https://github.com/Scots1969/Moqups.git
+### Moqups URL: https://app.moqups.com/imthedaddy1969@gmail.com/oJjBRVpHmx/edit/page/ad64222d5
